@@ -36,8 +36,3 @@ java ClassName
 3. **Break it on purpose.** Change a value, remove a check, and see which error appears and why.
 4. **Do the "Try it yourself" extensions** in each README. Writing new code is where the learning sticks.
 5. **Rewrite from memory.** After a few days, delete the file and rebuild the project from scratch.
-
-## Suggested next steps
-
-Once these feel comfortable, try: splitting a project into multiple classes/files, adding JUnit tests,
-saving data to files or a database (JDBC), and then moving on to a framework such as Spring Boot.
