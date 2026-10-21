@@ -1,0 +1,4 @@
+Java is a high-level, class-based, object-oriented programming language.
+It is designed to have as few implementation dependencies as possible.
+
+Write once, run anywhere.
